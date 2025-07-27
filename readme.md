@@ -109,4 +109,4 @@ Copy address to clipboard (y/N)?
 PRs and issues are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/inlovewithgo/crypto-transit).
 
 
-**Let me know if you want a Markdown section for troubleshooting, detailed developer info, or a badge for Go version, etc.!**
+**Let me know if you want a Markdown section for troubleshooting, detailed developer info, or a badge for Go version, etc.!** ~ I will make them Soon
